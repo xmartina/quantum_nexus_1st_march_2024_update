@@ -394,11 +394,11 @@ Estereden@gmail.com
                 </li>
 
 
-                <li>
-                    <a href="?a=usernotices"><i class="bi bi-bell-fill"></i>User Notice/Messages<span
-                                class="badge bg-danger rounded-pill ms-2"></span>
-                    </a>
-                </li>
+{*                <li>*}
+{*                    <a href="?a=usernotices"><i class="bi bi-bell-fill"></i>User Notice/Messages<span*}
+{*                                class="badge bg-danger rounded-pill ms-2"></span>*}
+{*                    </a>*}
+{*                </li>*}
                 <li>
                     <a href="?a=support">
                         <i class="bi bi-headset"></i>Contact Support
@@ -412,8 +412,8 @@ Estereden@gmail.com
             <div class="copyright-info">
                 <p>
                     <span id="copyrightYear">2024</span> ©
-                    <a href="https://brainboxoptionsinv.com">
-                        brainboxoptionsinv.com
+                    <a href="https://{$siteLink}">
+                        {$siteName}
                     </a>
                 </p>
             </div>

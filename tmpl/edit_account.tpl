@@ -194,23 +194,20 @@
                                         </tr>
                                         <tr>
                                             <td>Your City:</td>
-                                            <td><input type=text name=city value="{$userinfo.city|escape:"quotes"}"
-                                                       class=inpts size=30></td>
+                                            <td><input type=text name=city value="{$userinfo.city|escape:"quotes"}" class="form-control " size=30></td>
                                         </tr>
                                         <tr>
                                             <td>Your State:</td>
-                                            <td><input type=text name=state value="{$userinfo.state|escape:"quotes"}"
-                                                       class=inpts size=30></td>
+                                            <td><input type=text name=state value="{$userinfo.state|escape:"quotes"}" class="form-control " size=30></td>
                                         </tr>
                                         <tr>
                                             <td>Your Zip:</td>
-                                            <td><input type=text name=zip value="{$userinfo.zip|escape:"quotes"}"
-                                                       class=inpts size=30></td>
+                                            <td><input type=text name=zip value="{$userinfo.zip|escape:"quotes"}" class="form-control " size=30></td>
                                         </tr>
                                         <tr>
                                             <td>Your Country:</td>
                                             <td>
-                                                <select name='country' class=inpts>
+                                                <select name='country' class="form-control ">
                                                     <option value=''>--SELECT--</option>
                                                     {section name=c loop=$countries}
                                                         <option {if $countries[c].name eq $userinfo.country}selected{/if}>{$countries[c].name|escape:"quotes"}</option>
@@ -222,17 +219,17 @@
                                     {if $settings.license == '4ZQQN55VA2NXBVFUQJE6' }
                                         <tr>
                                             <td>Current Password:</td>
-                                            <td><input type=password name=current_password value="" class=inpts size=30>
+                                            <td><input type=password name=current_password value="" class="form-control " size=30>
                                             </td>
                                         </tr>
                                     {/if}
                                     <tr>
                                         <td>New Password:</td>
-                                        <td><input type=password name=password value="" class=inpts size=30></td>
+                                        <td><input type=password name=password value="" class="form-control " size=30></td>
                                     </tr>
                                     <tr>
                                         <td>Retype Password:</td>
-                                        <td><input type=password name=password2 value="" class=inpts size=30></td>
+                                        <td><input type=password name=password2 value="" class="form-control " size=30></td>
                                     </tr>
                                     {if $settings.use_transaction_code}
                                         {if $settings.use_transaction_code_edit_account != 1}
@@ -240,18 +237,18 @@
                                                 <tr>
                                                     <td>Current Transaction Code:</td>
                                                     <td><input type=password name=transaction_code_current value=""
-                                                               class=inpts size=30></td>
+                                                               class="form-control " size=30></td>
                                                 </tr>
                                             {/if}
                                         {/if}
                                         <tr>
                                             <td>New Transaction Code:</td>
-                                            <td><input type=password name=transaction_code value="" class=inpts size=30>
+                                            <td><input type=password name=transaction_code value="" class="form-control " size=30>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Retype Transaction Code:</td>
-                                            <td><input type=password name=transaction_code2 value="" class=inpts
+                                            <td><input type=password name=transaction_code2 value="" class="form-control "
                                                        size=30></td>
                                         </tr>
                                     {/if}
@@ -259,7 +256,7 @@
                                         <tr>
                                             <td>Your {$ps.name} acc no:</td>
                                             <td>{if $settings.usercanchangeegoldacc == 0 && $ps.account != ''}{$ps.account|escape:html}{else}
-                                                    <input type=text class=inpts size=30 name="pay_account[{$ps.id}]"
+                                                    <input type=text class="form-control " size=30 name="pay_account[{$ps.id}]"
                                                            value="{$ps.account|escape:html}">{/if}</td>
                                         </tr>
                                     {/foreach}
@@ -268,7 +265,7 @@
                                             <tr>
                                                 <td>Your {$p.name} {$ps.name}:</td>
                                                 <td>{if $settings.usercanchangeegoldacc == 0 && $ps.value != ''}{$ps.value|escape:html}{else}
-                                                        <input type=text class=inpts size=30
+                                                        <input type=text class="form-control " size=30
                                                                name="pay_account[{$p.id}][{$ps.name|escape:html}]"
                                                                value="{$ps.value|escape:html}">{/if}</td>
                                             </tr>
@@ -276,10 +273,7 @@
                                     {/foreach}
                                     <tr>
                                         <td>Your E-mail address:</td>
-                                        <td>{if $settings.usercanchangeemail == 1}<input type=text name=email
-                                                                                         value='{$userinfo.email|escape:"quotes"}'
-                                                                                         class=inpts
-                                                                                         size=30>{else}{$userinfo.email}{/if}
+                                        <td>{if $settings.usercanchangeemail == 1}<input type=text name=email value='{$userinfo.email|escape:"quotes"}' class="form-control " size=30>{else}{$userinfo.email}{/if}
                                         </td>
                                     </tr>
                                     {if $userinfo.admin_auto_pay_earning == 1}
@@ -293,8 +287,7 @@
                                     {if $settings.accesswap == 1}
                                         <tr>
                                             <td>Password for WAP access:</td>
-                                            <td><input type=password name=wappassword class=inpts
-                                                       size=30> {if $userinfo.stat_password ne ''}
+                                            <td><input type=password name=wappassword class="form-control " size=30> {if $userinfo.stat_password ne ''}
                                                     <a href=?a=deletewappass
                                                        onclick="return confirm('Are you sure delete this password?');">[delete
                                                         current]</a>
@@ -308,8 +301,7 @@
                                     {if $settings.use_transaction_code_edit_account == 1}
                                         <tr>
                                             <td>Current Transaction Code:</td>
-                                            <td><input type=password name=transaction_code_current value="" class=inpts
-                                                       size=30></td>
+                                            <td><input type=password name=transaction_code_current value="" class="form-control " size=30></td>
                                         </tr>
                                     {/if}
 
@@ -318,13 +310,13 @@
                                             <td>Code: <img
                                                         src="?a=show_validation_image&{$userinfo.session_name}={$userinfo.session_id}&rand={$userinfo.rand}">
                                             </td>
-                                            <td><input type=text name=validation_number class=inpts size=15></td>
+                                            <td><input type=text name=validation_number class="form-control " size=15></td>
                                         </tr>
                                     {/if}
 
                                     <tr>
                                         <td>&nbsp;</td>
-                                        <td><input type=submit value="Change Account data" class=sbmt></td>
+                                        <td><input type=submit value="Change Account data" class="btn btn-primary w-100"></td>
                                     </tr>
                                 </table>
                             </form>

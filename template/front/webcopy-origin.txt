@@ -1,0 +1,528 @@
+Uri: https://brainboxoptionsinv.com/a/
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\index.htm
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/about.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\about.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/assets/javascript/clipboard.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\assets\javascript\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/assets/javascript/countries.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\assets\javascript\countries.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/assets/javascript/jquery.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\assets\javascript\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/assets/javascript/language.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\assets\javascript\language.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/assets/stylesheets/others.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\assets\stylesheets\others.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/auth/login.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\auth\login.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/auth/login34e8.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\auth\login34e8.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/auth/loginec36.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\auth\loginec36.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/auth/register.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\auth\register.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/auth/resetpassword.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\auth\resetpassword.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/index.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\index.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/login.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\login.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/privacy-policy.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\privacy-policy.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/color/theme.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\color\theme.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/animate.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\animate.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/cryptocoins.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\cryptocoins.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/responsive.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\responsive.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/spop.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\spop.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/css/style.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\css\style.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/cryptocoins.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\cryptocoins.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/cryptocoins.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\cryptocoins.ttf
+Content Type: font/ttf
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/cryptocoins.woff
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\cryptocoins.woff
+Content Type: font/woff
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfont3e6e3e6e3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfont3e6e3e6e3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfont3e6e3e6e3e6e.html?v=4.7.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfont3e6e3e6e3e6e.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfont3e6e3e6e3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfont3e6e3e6e3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfont3e6e3e6e3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfont3e6e3e6e3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfont3e6e3e6e3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfont3e6e3e6e3e6e.woff
+Content Type: font/woff
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/fontawesome-webfontd41dd41dd41d.eot?
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\fontawesome-webfontd41dd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/ionicons28b528b528b5.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\ionicons28b528b528b5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/ionicons28b528b528b5.html?v=2.0.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\ionicons28b528b528b5.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/ionicons28b528b528b5.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\ionicons28b528b528b5.ttf
+Content Type: font/ttf
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/fonts/ionicons28b528b528b5.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\fonts\ionicons28b528b528b5.woff
+Content Type: font/woff
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/about_bg.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\about_bg.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/banner_bg1.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\banner_bg1.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt1.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt1.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt3.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt3.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt4.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt4.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt5.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt5.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt6.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt6.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt7.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt7.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt8.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt8.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/client_logo_wt9.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\client_logo_wt9.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/counter_bg.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\counter_bg.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/counter_bg.jpg
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\counter_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/Elledge_181012_3465_CIT.jpg
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\Elledge_181012_3465_CIT.jpg
+Content Type: image/jpeg
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/footer_pattern.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\footer_pattern.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/mobile_shape_bg.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\mobile_shape_bg.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/rounded_shape.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\rounded_shape.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon1.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon1.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon2.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon2.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon4.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon4.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon5.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon5.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon6.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon6.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/service_icon7.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\service_icon7.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/token_bg2.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\token_bg2.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/token_countdown_bg.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\token_countdown_bg.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/wave.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\wave.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/images/whitepaper_pattern.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\images\whitepaper_pattern.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/jquery.dd.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\jquery.dd.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/modern_canvas.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\modern_canvas.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/notification.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\notification.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/parallax.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\parallax.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/particles.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/scripts.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/owlcarousel/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\owlcarousel\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/owlcarousel/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\owlcarousel\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/owlcarousel/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\owlcarousel\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/templates/particles-dark/owlcarousel/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\templates\particles-dark\owlcarousel\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/terms.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\terms.html
+Content Type: text/html
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/apexcharts.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\apexcharts.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/baguetteBox.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\baguetteBox.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/fonts/bootstrap-iconsd862d862.woff2?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\fonts\bootstrap-iconsd862d862.woff2
+Content Type: font/woff2
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/fonts/bootstrap-iconsd862d862.woff?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\fonts\bootstrap-iconsd862d862.woff
+Content Type: font/woff
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/others.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\others.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/rangeslider.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\rangeslider.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/css/tiny-slider.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\css\tiny-slider.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/datatable/datatables.min.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\datatable\datatables.min.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/img/bg-img/auth.jpg
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\img\bg-img\auth.jpg
+Content Type: image/jpeg
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/img/bg-img/background.jpg
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\img\bg-img\background.jpg
+Content Type: image/jpeg
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/active.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\active.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/baguetteBox.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\baguetteBox.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/countdown.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/dark-rtl.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\dark-rtl.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/index.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\index.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/internet-status.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\internet-status.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/pwa.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\pwa.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/rangeslider.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\rangeslider.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/slideToggle.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\slideToggle.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/tiny-slider.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/js/vanilla-dataTables.min.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\js\vanilla-dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://brainboxoptionsinv.com/a/themes/berry-classic/style.css
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\themes\berry-classic\style.css
+Content Type: text/css
+
+Uri: https://brainboxoptionsinv.com/a/uploads/1674120560_41d9f62f15e1e5bbfdec.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\uploads\1674120560_41d9f62f15e1e5bbfdec.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/uploads/1674120593_165be6ac3df0c9f9dfca.png
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\uploads\1674120593_165be6ac3df0c9f9dfca.png
+Content Type: image/png
+
+Uri: https://brainboxoptionsinv.com/a/user/index.html
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\a\user\index.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&amp;display=swap
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js
+File Name: C:\Downloaded Web Sites\brainboxoptionsinv.com\external-embedding\embed-widget-mini-symbol-overview.js
+Content Type: text/javascript
+

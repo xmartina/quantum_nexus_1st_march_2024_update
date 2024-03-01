@@ -1,0 +1,53 @@
+{$settings.site_name}
+
+{if $userinfo.logged != 1}
+{else}
+{/if}
+
+{$currency_sign} {$settings.info_box_deposit_funds_generated}
+
+{$settings.info_box_total_accounts_generated}
+
+{$currency_sign} {$settings.info_box_withdraw_funds_generated}
+
+{$settings.site_days_online_generated}
+
+<tbody>{if $last_deposits} {foreach from=$last_deposits item=s}
+<tr>
+    <td>{$s.username}</td>
+    <td><span>{$currency_sign}{$s.amount}</span>
+    </td>
+    <td>
+        <img src="images/{$s.ec}.gif">
+    </td>
+</tr>{/foreach} {else}
+<tr>
+    <td>No Data Found</td>
+    <td><span>N/A</span>
+    </td>
+    <td></td>
+</tr>{/if}</tbody>
+
+{if $last_withdrawals}
+{foreach from=$last_withdrawals item=s}
+<tr>
+    <td>{$s.username}</td>
+    <td><span>{$currency_sign}{$s.amount}</span></td>
+    <td><img src="images/{$s.ec}.gif"></td>
+</tr>{/foreach}{else}
+<tr>
+    <td>No Data Found</td>
+    <td><span>N/A</span></td>
+    <td></td>
+</tr>{/if}
+
+<!--LINKS-->
+
+<li><a class="btn_acc hvr-sweep-to-right" href="?a=account">account</a></li>
+<li><a class="btn_dep hvr-sweep-to-right" href="?a=deposit">deposit</a></li>
+<li><a class="btn_withd hvr-sweep-to-right" href="?a=withdraw">withdraw</a></li>
+<li><a class="btn_yourdep hvr-sweep-to-right" href="?a=deposit_list">your deposits</a></li>
+<li><a class="btn_trans hvr-sweep-to-right" href="?a=deposit_history">transactions</a></li>
+<li><a class="btn_refer hvr-sweep-to-right" href="?a=referals">referrals</a></li>
+<li><a class="btn_setting hvr-sweep-to-right" href="?a=edit_account">settings</a></li>
+<li><a class="btn_securi hvr-sweep-to-right" href="?a=security">security</a></li>

@@ -1,7 +1,7 @@
 {$pageName = 'Support Page | User Dashboard '}
 {$siteName = 'Quantum Nexus'}
 {$siteLink = 'quantumnexusai.online'}
-{include file="back_header.tpl"}
+{include file="auth_header.tpl"}
 
 <div class="login-wrapper d-flex align-items-center justify-content-center">
     <div class="custom-container auth py-4 px-3">
@@ -139,4 +139,4 @@
 </div>
 
 
-{include file="back_footer.tpl"}
+{include file="auth_footer.tpl"}

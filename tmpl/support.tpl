@@ -138,4 +138,5 @@
     </div>
 </div>
 
-<div class="page-content-wrapper">
+
+{include file="back_footer.tpl"}

@@ -1,4 +1,4 @@
-{$pageName = 'Deposit Page | User Dashboard '}
+{$pageName = 'Transactions Page | User Dashboard '}
 {$siteName = 'Quantum Nexus'}
 {$siteLink = 'quantumnexusai.online'}
 {include file="back_header.tpl"}
@@ -89,7 +89,7 @@
 
            </td>
            <td>
-            &nbsp; <input type=submit value="Go" class=sbmt>
+            &nbsp; <input type=submit value="Go" class="btn btn-primary w-100">
            </td>
          </tr></table>
         </form>

@@ -358,11 +358,11 @@ Estereden@gmail.com
                     </a>
                 </li>
 
-                <li>
-                    <a href="?a=support">
-                        <i class="bi bi-bank"></i> Loan
-                    </a>
-                </li>
+{*                <li>*}
+{*                    <a href="?a=support">*}
+{*                        <i class="bi bi-bank"></i> Loan*}
+{*                    </a>*}
+{*                </li>*}
 
                 <li>
                     <a href="?a=deposit_list">

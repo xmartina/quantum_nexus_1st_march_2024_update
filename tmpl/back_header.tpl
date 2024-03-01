@@ -100,9 +100,9 @@ Estereden@gmail.com
                     <hr>
                     <span><a href="?a=edit_account" class="text-white"><i
                                     class="bi bi-person-circle"></i> Profile</a></span> |
-                    <span><a href="?a=edit_account" class="text-white"><i class="bi bi-lock"></i> Password</a></span>
-                    | <span><a href="?a=verify" class="text-white"><i
-                                    class="bi bi-patch-check"></i> Get Verified</a></span>
+                    <span><a href="?a=edit_account" class="text-white"><i class="bi bi-lock"></i> Password</a></span> |
+{*                    | <span><a href="?a=verify" class="text-white"><i*}
+{*                                    class="bi bi-patch-check"></i> Get Verified</a></span>*}
                     <hr>
                     {literal}
                         <style>

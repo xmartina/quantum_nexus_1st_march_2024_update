@@ -194,6 +194,7 @@
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
+                                                                        <td class="py-2"></td>
                                                                         <td colspan=2><input type=submit value="Spend" class="btn btn-primary w-100"></td>
                                                                     </tr></table>
                                                             </form>

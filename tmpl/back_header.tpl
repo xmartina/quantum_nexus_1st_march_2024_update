@@ -31,8 +31,8 @@
           href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/am=wA/d=0/rs=AN8SPfq5gedF4FIOWZgYyMCNZA5tU966ig/m=el_main_css">
     <script type="text/javascript" charset="UTF-8"
             src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.5nUaODTJUnM.O/d=1/exm=el_conf/ed=1/rs=AN8SPfpuUz_06QPCJsfV7r0u7Wa8MGHDNg/m=el_main"></script>
-    <link rel="apple-touch-icon" sizes="144x144" href="/template/front/a/uploads/favicon.png">
-    <link rel="shortcut icon" href="/template/front/a/uploads/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://{$siteLink}/template/front/a/uploads/favicon.png">
+    <link rel="shortcut icon" href="https://{$siteLink}/template/front/a/uploads/favicon.png">
 
 </head>
 

@@ -15,9 +15,9 @@
 
     <meta name="keywords" content="<?= $company_keyword ?>">
     <meta property="og:locale" content="en_US">
-    <meta property="og:image" content="https://brainboxoptionsinv.com/uploads/favicon.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://brainboxoptionsinv.com/uploads/favicon.png">
-    <link rel="shortcut icon" href="https://brainboxoptionsinv.com/uploads/favicon.png">
+    <meta property="og:image" content="/template/front/a/uploads/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/template/front/a/uploads/favicon.png">
+    <link rel="shortcut icon" href="/template/front/a/uploads/favicon.png">
 
 
     {literal}

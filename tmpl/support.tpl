@@ -6,7 +6,9 @@
 <div class="login-wrapper d-flex align-items-center justify-content-center">
     <div class="custom-container auth py-4 px-3">
         <div class="text-center px-4">
-            <a href="https://brainboxoptionsinv.com"><img src="uploads/logo.png " class="login-intro-img" width="150px"></a>
+            <a href="{$siteLink}">
+                <img src="/template/front/a/uploads/logo.png " class="login-intro-img" width="150px">
+            </a>
         </div>
 
 
@@ -26,12 +28,11 @@
                     <h1 class="section-header" style="color:white;">Feedback Form</h1>
 
 
-
-
                     {if $say eq 'send'}
-                        Message has been successfully sent. We will back to you in next 24 hours. Thank you.<br><br>
+                        Message has been successfully sent. We will back to you in next 24 hours. Thank you.
+                        <br>
+                        <br>
                     {else}
-
                         <script language=javascript>
                             {if $userinfo.logged == 1}
                             {literal}
@@ -67,7 +68,6 @@
                             {/literal}
                             {/if}
                         </script>
-
                         <form method=post name=mainform onsubmit="return checkform()">
                             <input type=hidden name=a value=support>
                             <input type=hidden name=action value=send>
@@ -89,7 +89,8 @@
                                     {if $userinfo.logged}
                                         <td><b>{$userinfo.name}</b></td>
                                     {else}
-                                        <td><input type="text" name="name" value="{$frm.name|escape:htmlall}" size=30 class=inpts></td>
+                                        <td><input type="text" name="name" value="{$frm.name|escape:htmlall}" size=30
+                                                   class=inpts></td>
                                     {/if}
                                 </tr>
                                 <tr>
@@ -97,26 +98,29 @@
                                     {if $userinfo.logged}
                                         <td><b>{$userinfo.email}</b></td>
                                     {else}
-                                        <td><input type="text" name="email" value="{$frm.email|escape:htmlall}" size=30 class=inpts></td>
+                                        <td><input type="text" name="email" value="{$frm.email|escape:htmlall}" size=30
+                                                   class=inpts></td>
                                     {/if}
                                 </tr>
                                 <tr>
-                                    <td colspan=2>Message:<br><br><textarea name=message class=inpts cols=45 rows=4>{$frm.message|escape:htmlall}</textarea>
+                                    <td colspan=2>Message:<br><br><textarea name=message class=inpts cols=45
+                                                                            rows=4>{$frm.message|escape:htmlall}</textarea>
                                 </tr>
                                 {if $userinfo.validation_enabled == 1}
                                     <tr>
-                                        <td class=menutxt><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}"></td>
+                                        <td class=menutxt><img
+                                                    src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">
+                                        </td>
                                         <td><input type=text name=validation_number class=inpts size=30></td>
                                     </tr>
                                 {/if}
                                 <tr>
                                     <td>&nbsp;</td>
                                     <td><input type=submit value="Send" class=sbmt></td>
-                                </tr></table>
+                                </tr>
+                            </table>
                         </form>
-
                     {/if}
-
 
 
                 </div>

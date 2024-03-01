@@ -80,7 +80,7 @@
                                 </tr>
                                 </tbody>
                             </table>
-                            <h3 class="title">Our Custom Banners</h3><br>
+                            <br>
                             <h4>Your Unique Referral Link: {$settings.site_url}/?ref={$userinfo.username}</h4>
                             <br>
                             <br>

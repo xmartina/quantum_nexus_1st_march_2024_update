@@ -2,7 +2,31 @@
 <head>
     {literal}
         <style data-rc-order="prependQueue" data-css-hash="1h8tzv5"
-               data-token-hash="1glz966">.anticon{display:inline-flex;align-items:center;color:inherit;font-style:normal;line-height:0;text-align:center;text-transform:none;vertical-align:-0.125em;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}.anticon > *{line-height:1;}.anticon svg{display:inline-block;}.anticon .anticon .anticon-icon{display:block;}
+               data-token-hash="1glz966">.anticon {
+                display: inline-flex;
+                align-items: center;
+                color: inherit;
+                font-style: normal;
+                line-height: 0;
+                text-align: center;
+                text-transform: none;
+                vertical-align: -0.125em;
+                text-rendering: optimizeLegibility;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+            }
+
+            .anticon > * {
+                line-height: 1;
+            }
+
+            .anticon svg {
+                display: inline-block;
+            }
+
+            .anticon .anticon .anticon-icon {
+                display: block;
+            }
         </style>
     {/literal}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,9 +112,7 @@
 
                         <sup><i class="bi bi-patch-check"></i></sup>
                     </h6>
-                    <span>
-Estereden@gmail.com
-            </span>
+                    <span>{$userinfo.username}</span>
                     <span>
               <div class="night-mode-nav">
                 <i class="bi bi-moon"></i> Dark Mode: <input class="form-check-input form-check-success" id="darkSwitch"
@@ -101,8 +123,8 @@ Estereden@gmail.com
                     <span><a href="?a=edit_account" class="text-white"><i
                                     class="bi bi-person-circle"></i> Profile</a></span> |
                     <span><a href="?a=edit_account" class="text-white"><i class="bi bi-lock"></i> Password</a></span> |
-{*                    | <span><a href="?a=verify" class="text-white"><i*}
-{*                                    class="bi bi-patch-check"></i> Get Verified</a></span>*}
+                    {*                    | <span><a href="?a=verify" class="text-white"><i*}
+                    {*                                    class="bi bi-patch-check"></i> Get Verified</a></span>*}
                     <hr>
                     {literal}
                         <style>
@@ -344,9 +366,9 @@ Estereden@gmail.com
                 </li>
 
 
-{*                <li>*}
-{*                    <a href="?a=internal_transfer"><i class="bi bi-send-check"></i> P2P transfer</a>*}
-{*                </li>*}
+                {*                <li>*}
+                {*                    <a href="?a=internal_transfer"><i class="bi bi-send-check"></i> P2P transfer</a>*}
+                {*                </li>*}
                 <!--?php } ?-->
                 <li>
                     <a href="?a=withdraw"><i class="bi bi-cash-coin"></i> Withdraw</a>
@@ -358,11 +380,11 @@ Estereden@gmail.com
                     </a>
                 </li>
 
-{*                <li>*}
-{*                    <a href="?a=support">*}
-{*                        <i class="bi bi-bank"></i> Loan*}
-{*                    </a>*}
-{*                </li>*}
+                {*                <li>*}
+                {*                    <a href="?a=support">*}
+                {*                        <i class="bi bi-bank"></i> Loan*}
+                {*                    </a>*}
+                {*                </li>*}
 
                 <li>
                     <a href="?a=deposit_list">
@@ -394,11 +416,11 @@ Estereden@gmail.com
                 </li>
 
 
-{*                <li>*}
-{*                    <a href="?a=usernotices"><i class="bi bi-bell-fill"></i>User Notice/Messages<span*}
-{*                                class="badge bg-danger rounded-pill ms-2"></span>*}
-{*                    </a>*}
-{*                </li>*}
+                {*                <li>*}
+                {*                    <a href="?a=usernotices"><i class="bi bi-bell-fill"></i>User Notice/Messages<span*}
+                {*                                class="badge bg-danger rounded-pill ms-2"></span>*}
+                {*                    </a>*}
+                {*                </li>*}
                 <li>
                     <a href="?a=support">
                         <i class="bi bi-headset"></i>Contact Support

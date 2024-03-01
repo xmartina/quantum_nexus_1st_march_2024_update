@@ -344,9 +344,9 @@ Estereden@gmail.com
                 </li>
 
 
-                <li>
-                    <a href="?a=internal_transfer"><i class="bi bi-send-check"></i> P2P transfer</a>
-                </li>
+{*                <li>*}
+{*                    <a href="?a=internal_transfer"><i class="bi bi-send-check"></i> P2P transfer</a>*}
+{*                </li>*}
                 <!--?php } ?-->
                 <li>
                     <a href="?a=withdraw"><i class="bi bi-cash-coin"></i> Withdraw</a>

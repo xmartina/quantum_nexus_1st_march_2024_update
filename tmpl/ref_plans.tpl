@@ -81,7 +81,7 @@
                                 </tbody>
                             </table>
                             <br>
-                            <h4>Your Unique Referral Link: {$settings.site_url}/?ref={$userinfo.username}</h4>
+                            <h6>Your Unique Referral Link: {$settings.site_url}/?ref={$userinfo.username}</h6>
                             <br>
                             <br>
 

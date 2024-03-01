@@ -175,12 +175,12 @@
                                             <td>{$userinfo.date_register}</td>
                                         </tr><tr>
                                             <td>Your Full Name:</td>
-                                            <td><input type=text name=fullname value='{$userinfo.name|escape:"quotes"}' class=inpts size=30>
+                                            <td><input type=text name=fullname value='{$userinfo.name|escape:"quotes"}' class="form-control " size=30>
                                         </tr>
                                         {if $settings.use_user_location}
                                             <tr>
                                                 <td>Your Address:</td>
-                                                <td><input type=text name=address value="{$userinfo.address|escape:"quotes"}" class=inpts size=30></td>
+                                                <td><input type=text name=address value="{$userinfo.address|escape:"quotes"}" class="form-control " size=30></td>
                                             </tr>
                                             <tr>
                                                 <td>Your City:</td>

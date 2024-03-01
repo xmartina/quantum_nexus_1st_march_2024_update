@@ -1,4 +1,4 @@
-{$pageName = 'Packages Page | User Dashboard '}
+{$pageName = 'Deposit History Page | User Dashboard '}
 {$siteName = 'Quantum Nexus'}
 {$siteLink = 'quantumnexusai.online'}
 {include file="back_header.tpl"}
